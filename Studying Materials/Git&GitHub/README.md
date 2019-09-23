@@ -1,6 +1,3 @@
-# ang3d
-Repo, that contains useful studying materials, video tutorials, sample projects etc.
-
 ### Git/GitHub Basics
 **Requirements**
 * Git -> https://git-scm.com/
