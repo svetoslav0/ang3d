@@ -10,4 +10,4 @@ A user must have the following attributes:
 No validations are required at this point.
 
 After that you need to create a table (in the same page) that displays list of all users' data (except the password).
-![example_image](https://ibb.co/fpFHp9X "Example image")
+![example_image](https://i.ibb.co/85s95bm/Untitled.png "Example image")
