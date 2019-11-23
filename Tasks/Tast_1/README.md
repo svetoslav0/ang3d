@@ -16,4 +16,4 @@ http://localhost/?url=12d1f9hl
 или така:
 http://localhost/12d1f9hl
 
-It's up to you ;)
+It's up to you
